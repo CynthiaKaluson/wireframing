@@ -59,7 +59,7 @@ Wireframing helps teams work smarter by:
 A real-world example:  
 A startup planned an e-commerce website. At first, their design placed the "Add to Cart" button below the product details. During wireframing, testers noticed users had trouble finding the button quickly.  
 
-By moving the "Add to Cart" button higher — right beside the product image — usability improved. Customers could now act faster, leading to higher conversion rates.  
+By moving the "Add to Cart" button higher right beside the product image usability improved. Customers could now act faster, leading to higher conversion rates.  
 
 **Conclusion:**  
 Wireframing prevents wasted effort by identifying usability issues early. It gives teams a blueprint that keeps the design user-friendly and aligned with business goals.
